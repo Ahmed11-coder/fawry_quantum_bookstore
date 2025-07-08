@@ -1,0 +1,24 @@
+{
+  "name": "fawry_quantum_bookstore",
+  "version": "1.0.0",
+  "description": "Online Book Store System Provide Adding, Removing, Buying Books",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsc && node ./dist/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ahmed11-coder/fawry_quantum_bookstore.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Ahmed11-coder/fawry_quantum_bookstore/issues"
+  },
+  "homepage": "https://github.com/Ahmed11-coder/fawry_quantum_bookstore#readme",
+  "dependencies": {
+    "typescript": "^5.8.3"
+  }
+}

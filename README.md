@@ -69,14 +69,14 @@ Online Book Store System Provide Adding, Removing, Buying Books
 ## ScreenShots
 
 - Before Payment :
-[](./imgs/1.PNG);
+<img src="./imgs/1.PNG">
 
 - Payment : 
 ```typescript
 my_inventory.buy('765765', 3, "example@mail.com");
 my_inventory.buy('55357', 6, "example@mail.com", "Cairo Egypt");
 ```
-[](./imgs/2.PNG)
+<img src="./imgs/2.PNG">
 
 - After Payment :
-[](./imgs/3.PNG)
+<img src="./imgs/3.PNG">
